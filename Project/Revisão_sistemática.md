@@ -15,10 +15,11 @@
 ## 1. Introdução ##
 
  O diagnóstico precoce e preciso de nódulos tireoidianos é fundamental devido à sua alta prevalência na população e à possibilidade de malignidade. Segundo Paulino et al. (2020) Nódulos tireoidianos são achados comuns em exames de imagem, e embora a maioria seja benigna, a identificação de nódulos malignos é crucial para iniciar o tratamento adequado o mais cedo possível, melhorando assim o prognóstico e a qualidade de vida do paciente. Além disso, um diagnóstico preciso permite evitar procedimentos invasivos desnecessários em pacientes com nódulos benignos, proporcionando uma abordagem terapêutica mais personalizada e eficaz.                   Conforme citam Chamberlaim et al (2023) e Lobo (2017) em suas publicações, o uso de ferramentas de inteligência artificial (IA) na medicina diagnóstica tem crescido significativamente. Essas ferramentas processam grandes quantidades de dados médicos, como imagens de exames, para auxiliar na interpretação e diagnóstico de doenças. Com algoritmos cada vez mais avançados, a IA pode identificar padrões e anomalias, proporcionando diagnósticos mais precisos e rápidos. Essa tecnologia está se tornando essencial para melhorar a eficiência e a precisão dos diagnósticos médicos.
-    Esta revisão sistemática é crucial para fundamentar a pesquisa. Ela oferecerá uma compreensão do estado atual da literatura científica, identificando lacunas de conhecimento e direcionando a pesquisa de forma precisa. Além disso, fornecerá uma visão abrangente das técnicas de IA utilizadas e sua eficácia clínica, contribuindo para o desenvolvimento de uma ferramenta robusta e útil. Esta revisão será a base teórica para o trabalho de mestrado, gerando novos conhecimentos nessa área em rápida evolução da medicina diagnóstica.
+    Esta revisão sistemática demostra grande importância para fundamentar a pesquisa. Ela oferece uma compreensão do estado atual da literatura científica, identificando lacunas de conhecimento e direcionando a pesquisa de forma precisa. Esta revisão será a base teórica para o trabalho, gerando novos conhecimentos nessa área em rápida evolução da medicina diagnóstica.
      
 
 ## 2. Metodologia ##
+
  ### 2.1. Definição dos critérios de inclusão e exclusão dos estudos.
  
 **Critérios de inclusão:**
@@ -37,30 +38,36 @@
 5. Artigos desatualizados ou sem revisão por pares.
 6. Estudos com amostras pequenas ou metodologias inadequadas que comprometam a qualidade dos resultados.
 
+
 ### 2.2 Estratégia de busca em bases de dados 
-  As bases escolhidas foram PubMed, Scielo, Web of Science e Google Scholar. Esta escolha está justificada pela ampla cobertura e reputação. Essas bases são reconhecidas por indexar uma vasta gama de literatura científica, incluindo revistas de alto impacto e artigos revisados por pares. A busca se concentra em termos-chave relacionados à ultrassonografia de tireoide, inteligência artificial, TI-RADS e classificação de nódulos, adaptados conforme necessário para cada base de dados específica e seus idiomas. Essa abordagem visa identificar estudos relevantes que abordem o desenvolvimento e avaliação de ferramentas de IA para laudos de ultrassonografia de tireoide, com foco na aplicação do TI-RADS para classificação de nódulos. Esses estudos serão fundamentais para embasar a revisão sistemática e a pesquisa de mestrado, fornecendo uma base sólida de evidências para o trabalho proposto.
+
+ As bases escolhidas foram PubMed, Scielo, Web of Science e Google Scholar, esta escolha está justificada pela ampla cobertura e reputação consolidada. Essas plataformas são reconhecidas por indexar uma vasta gama de literatura científica, incluindo revistas de alto impacto e artigos revisados por pares, tornando-as fontes confiáveis de informação. A busca se concentra em termos-chave relacionados à produção de laudos de imagens de ultrassonografia de tireoide, como ultrassonografia de tireoide, inteligência artificial, TI-RADS e classificação de nódulos. Esses termos são adaptados conforme necessário para cada base de dados específica e seus idiomas, garantindo uma busca abrangente e precisa. O objetivo é identificar estudos relevantes que abordem o desenvolvimento e avaliação de ferramentas de IA para a produção de laudos de ultrassonografia de tireoide, com foco na aplicação do TI-RADS para a classificação de nódulos. Esses estudos serão fundamentais para embasar tanto a revisão sistemática quanto a pesquisa de mestrado, fornecendo uma base sólida de evidências para o trabalho proposto.
 Conforme descrito nas notas de aula de Oliveira (2019), foram seguidas as seguintes estratégias:
 
  **PubMed**:
    - A busca no PubMed foi fundamental devido à sua vasta cobertura de literatura médica, incluindo revistas científicas renomadas e artigos revisados por pares.
-   - A estratégia de busca na PubMed pode envolver termos relacionados à ultrassonografia de tireoide, inteligência artificial, TI-RADS e classificação de nódulos.
+   - A estratégia de busca na PubMed envolveu termos relacionados à ultrassonografia de tireoide e seus laudos, inteligência artificial, TI-RADS e classificação de nódulos.
  
 
  **Scielo**:
    - Scielo é uma base de dados que inclui uma grande quantidade de literatura científica.
-   - A estratégia de busca pode seguir os mesmos termos usados na PubMed, com ajustes para termos equivalentes em espanhol, inglês ou português, se necessário.
+   - A estratégia de busca foi seguir os mesmos termos usados na PubMed, com ajustes para termos equivalentes em espanhol, inglês ou português, quando necessário.
  
 
  **Web of Science**:
    - Web of Science é uma plataforma abrangente que indexa uma grande variedade de revistas científicas, permitindo uma busca detalhada.
-   - A estratégia de busca na Web of Science pode ser semelhante à utilizada na PubMed, com a vantagem de acessar diferentes revistas e conferências.
+   - A estratégia de busca na Web of Science foi semelhante à utilizada na PubMed, com a vantagem da possibilidade de acessar diferentes revistas e conferências.
    
 
 4. **Google Scholar**:
    - Google Scholar é útil para encontrar artigos em uma ampla gama de fontes, incluindo teses, dissertações e artigos de acesso aberto.
-   - A busca no Google Scholar pode ser mais genérica, utilizando os termos de busca principais, mas pode exigir filtragem adicional de resultados.
+   - A busca no Google Scholar foi mais genérica, utilizando os termos de busca principais, mas, em alguns momentos exigiu filtragem adicional de resultados.
 
 A estratégia de busca foi relacionada ao trabalho através da seleção de termos e palavras-chave relevantes, como "ultrassonografia de tireoide", "Laudos de tireoide", "inteligência artificial", "TI-RADS","Laudos TI-RADS", "classificação de nódulos", entre outros. Esses termos foram combinados logicamente com operadores booleanos (AND, OR) para refletir o escopo da pesquisa. Por exemplo, uma busca poderia incluir os termos "ultrassonografia de tireoide AND inteligência artificial AND TI-RADS".
+
+### 2.3 Desenvolvimento de Ferramentas de IA para Laudos de Ultrassonografia de Tireoide
+
+  **2.3.1 **
 
 ## 3. Discussão   ##
 
