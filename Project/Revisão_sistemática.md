@@ -6,8 +6,6 @@
 
 [Objetivo ](https://github.com/maluvreis/mlvr/edit/main/Project/Revis%C3%A3o_sistem%C3%A1tica.md#2-objetivo)
 
-[Estado da Arte ](https://github.com/maluvreis/mlvr/edit/main/Project/Revis%C3%A3o_sistem%C3%A1tica.md#3-estado-da-arte)
-
 [Metodologia](https://github.com/maluvreis/mlvr/edit/main/Project/Revis%C3%A3o_sistem%C3%A1tica.md#4-metodologia) 
 
 [Discussão](https://github.com/maluvreis/mlvr/edit/main/Project/Revis%C3%A3o_sistem%C3%A1tica.md#5-discuss%C3%A3o) 
@@ -24,20 +22,36 @@
 
 ## 2. Objetivo  ##
 
-
-## 3. Estado da Arte  ##
-
-
-## 4. Metodologia ##
+  O objetivo do trabalho é desenvolver e avaliar uma ferramenta de inteligência artificial (IA) para laudos de exames de ultrassonografia de tireoide, utilizando o TI-RADS para a classificação de nódulos. A ferramenta será projetada para auxiliar os radiologistas na identificação e classificação de nódulos tireoidianos, visando melhorar a precisão e eficiência dos diagnósticos. Além disso, pretende-se avaliar a eficácia da ferramenta em comparação com os métodos tradicionais de interpretação de exames, determinando sua acurácia diagnóstica, sensibilidade e especificidade. O trabalho visa contribuir para o avanço da medicina diagnóstica, fornecendo uma ferramenta prática e eficaz para a avaliação de nódulos tireoidianos, com potencial impacto na detecção precoce de doenças e na orientação de tratamentos adequados.
 
 
-## 5. Discussão   ##
+## 3. Metodologia ##
+ ### 3.1. Definição dos critérios de inclusão e exclusão dos estudos.###
+ 
+**Critérios de inclusão:**
+1. Estudos que abordem o desenvolvimento ou avaliação de ferramentas de inteligência artificial (IA) para laudos de ultrassonografia de tireoide.
+2. Artigos que usem o TI-RADS (Thyroid Imaging Reporting and Data System) para classificação de nódulos.
+3. Pesquisas que envolvam a aplicação de técnicas de IA para a detecção, classificação, ou prognóstico de nódulos tireoidianos.
+4. Estudos publicados em inglês, espanhol ou português.
+5. Artigos publicados nos últimos 10 anos para garantir relevância e atualidade.
+
+**Critérios de exclusão:**
+1. Estudos que não se relacionam diretamente com o desenvolvimento ou avaliação de ferramentas de IA para laudos de ultrassonografia de tireoide.
+2. Artigos que não utilizem o TI-RADS para classificação de nódulos.
+3. Pesquisas que não envolvam a aplicação de técnicas de IA na análise de exames de ultrassonografia de tireoide.
+4. Estudos publicados em idiomas diferentes dos especificados nos critérios de inclusão.
+5. Artigos desatualizados ou sem revisão por pares.
+6. Estudos com amostras pequenas ou metodologias inadequadas que comprometam a qualidade dos resultados.
 
 
-## 6. Conclusão  ##
+
+## 4. Discussão   ##
 
 
-## 7. Referências ##
+## 5. Conclusão  ##
+
+
+## 6. Referências ##
 
 PAULINO, J. P. G. et al. Importância da ultrassonografia nas doenças nodulares tireoidianas do Ambulatório de Endocrinologia da SCMRP. Revista Interdisciplinar de Saúde e Educação, v. 1, n. 2, p. 227–248, 19 dez. 2020.
 
