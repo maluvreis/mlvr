@@ -44,23 +44,23 @@ Conforme descrito nas notas de aula de Oliveira (2019), foram seguidas as seguin
  **PubMed**:
    - A busca no PubMed foi fundamental devido à sua vasta cobertura de literatura médica, incluindo revistas científicas renomadas e artigos revisados por pares.
    - A estratégia de busca na PubMed pode envolver termos relacionados à ultrassonografia de tireoide, inteligência artificial, TI-RADS e classificação de nódulos.
-   - Exemplo de termos de busca: ("thyroid ultrasound" OR "thyroid sonography") AND ("artificial intelligence" OR "machine learning") AND ("TI-RADS" OR "thyroid nodule classification").
+ 
 
  **Scielo**:
-   - Scielo é uma base de dados que inclui uma grande quantidade de literatura científica de países latino-americanos.
-   - A estratégia de busca pode seguir os mesmos termos usados na PubMed, com ajustes para termos equivalentes em espanhol ou português, se necessário.
-   - Exemplo de termos de busca: ("ultrasonido tiroideo" OR "ecografía tiroidea") AND ("inteligencia artificial" OR "aprendizaje automático") AND ("TI-RADS" OR "clasificación de nódulos tiroideos").
+   - Scielo é uma base de dados que inclui uma grande quantidade de literatura científica.
+   - A estratégia de busca pode seguir os mesmos termos usados na PubMed, com ajustes para termos equivalentes em espanhol, inglês ou português, se necessário.
+ 
 
  **Web of Science**:
    - Web of Science é uma plataforma abrangente que indexa uma grande variedade de revistas científicas, permitindo uma busca detalhada.
    - A estratégia de busca na Web of Science pode ser semelhante à utilizada na PubMed, com a vantagem de acessar diferentes revistas e conferências.
-   - Exemplo de termos de busca: TS=("thyroid ultrasound" OR "thyroid sonography") AND TS=("artificial intelligence" OR "machine learning") AND TS=("TI-RADS" OR "thyroid nodule classification").
+   
 
 4. **Google Scholar**:
    - Google Scholar é útil para encontrar artigos em uma ampla gama de fontes, incluindo teses, dissertações e artigos de acesso aberto.
    - A busca no Google Scholar pode ser mais genérica, utilizando os termos de busca principais, mas pode exigir filtragem adicional de resultados.
-   - Exemplo de termos de busca: "thyroid ultrasound" "artificial intelligence" "TI-RADS".
 
+A estratégia de busca foi relacionada ao trabalho através da seleção de termos e palavras-chave relevantes, como "ultrassonografia de tireoide", "Laudos de tireoide", "inteligência artificial", "TI-RADS","Laudos TI-RADS", "classificação de nódulos", entre outros. Esses termos foram combinados logicamente com operadores booleanos (AND, OR) para refletir o escopo da pesquisa. Por exemplo, uma busca poderia incluir os termos "ultrassonografia de tireoide AND inteligência artificial AND TI-RADS".
 
 ## 3. Discussão   ##
 
@@ -75,4 +75,6 @@ PAULINO, J. P. G. et al. Importância da ultrassonografia nas doenças nodulares
 CHAMBERLAIM, A. et al. Inteligência Artificial (IA) e suas aplicações em exames de imagem: uma nova era para diagnósticos na área da saúde. Cuadernos de Educación y Desarrollo, v. 15, n. 12, p. 17605–17624, 29 dez. 2023.
 
 LOBO, L. C. Inteligência Artificial e Medicina. Revista Brasileira de Educação Médica, v. 41, n. 2, p. 185–193, jun. 2017.
+
+OLIVEIRA, M.C. Como encontrar e ler um Artigo Ciêntífico. Universidade Federal de Alagoas, 2019.
 
