@@ -26,7 +26,7 @@
 
 
 ## 3. Metodologia ##
- ### 3.1. Definição dos critérios de inclusão e exclusão dos estudos.###
+ ### 3.1. Definição dos critérios de inclusão e exclusão dos estudos.
  
 **Critérios de inclusão:**
 1. Estudos que abordem o desenvolvimento ou avaliação de ferramentas de inteligência artificial (IA) para laudos de ultrassonografia de tireoide.
