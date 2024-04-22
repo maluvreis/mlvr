@@ -31,9 +31,10 @@
 **Critérios de inclusão:**
 1. Estudos que abordem o desenvolvimento ou avaliação de ferramentas de inteligência artificial (IA) para laudos de ultrassonografia de tireoide.
 2. Artigos que usem o TI-RADS (Thyroid Imaging Reporting and Data System) para classificação de nódulos.
-3. Pesquisas que envolvam a aplicação de técnicas de IA para a detecção, classificação, ou prognóstico de nódulos tireoidianos.
-4. Estudos publicados em inglês, espanhol ou português.
-5. Artigos publicados nos últimos 10 anos para garantir relevância e atualidade.
+3. Artigos mais relacionados a produção de laudos.
+4. Pesquisas que envolvam a aplicação de técnicas de IA para a detecção, classificação, ou prognóstico de nódulos tireoidianos.
+5. Estudos publicados em inglês, espanhol ou português.
+6. Artigos publicados nos últimos 5 anos para garantir relevância e atualidade.
 
 **Critérios de exclusão:**
 1. Estudos que não se relacionam diretamente com o desenvolvimento ou avaliação de ferramentas de IA para laudos de ultrassonografia de tireoide.
