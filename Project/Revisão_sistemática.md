@@ -4,7 +4,7 @@
 
 [Introduction ](https://github.com/maluvreis/mlvr/edit/main/Project/Revis%C3%A3o_sistem%C3%A1tica.md#1-introdu%C3%A7%C3%A3o)
 
-[Purpose of Review](https://github.com/maluvreis/mlvr/edit/main/Project/Revis%C3%A3o_sistem%C3%A1tica.md#3-objetvives) 
+[Purpose of Review](https://github.com/maluvreis/mlvr/edit/main/Project/Revis%C3%A3o_sistem%C3%A1tica.md#purpose-of-review) 
 
 [Methodology](https://github.com/maluvreis/mlvr/edit/main/Project/Revis%C3%A3o_sistem%C3%A1tica.md#4-metodologia) 
 
