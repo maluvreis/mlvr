@@ -4,6 +4,8 @@
 
 [Introduction ](https://github.com/maluvreis/mlvr/edit/main/Project/Revis%C3%A3o_sistem%C3%A1tica.md#1-introdu%C3%A7%C3%A3o)
 
+[Purpose of Review](https://github.com/maluvreis/mlvr/edit/main/Project/Revis%C3%A3o_sistem%C3%A1tica.md#3-objetvives) 
+
 [Methodology](https://github.com/maluvreis/mlvr/edit/main/Project/Revis%C3%A3o_sistem%C3%A1tica.md#4-metodologia) 
 
 [Discussion](https://github.com/maluvreis/mlvr/edit/main/Project/Revis%C3%A3o_sistem%C3%A1tica.md#5-discuss%C3%A3o) 
@@ -12,12 +14,15 @@
 
 [References](https://github.com/maluvreis/mlvr/edit/main/Project/Revis%C3%A3o_sistem%C3%A1tica.md#7-refer%C3%AAncias)
 
-## 1. Introduction ##
+## Introduction ##
 
  Early and accurate diagnosis of thyroid nodules is essential due to their high prevalence in the population and the possibility of malignancy. According to Paulino et al. (2020) Thyroid nodules are common findings on imaging exams, and although the majority are benign, the identification of malignant nodules is crucial to starting appropriate treatment as early as possible, thus improving the patient's prognosis and quality of life. Furthermore, an accurate diagnosis allows unnecessary invasive procedures to be avoided in patients with benign nodules, providing a more personalized and effective therapeutic approach.
  As Chamberlaim et al (2023) and Lobo (2017) mention in their publications, the use of artificial intelligence (AI) tools in diagnostic medicine has grown significantly. These tools process large amounts of medical data, such as exam images, to assist in the interpretation and diagnosis of diseases. With increasingly advanced algorithms, AI can identify patterns and anomalies, providing more accurate and faster diagnoses. This technology is becoming essential for improving the efficiency and accuracy of medical diagnoses.
  This systematic review is of great importance for supporting research, as it offers an understanding of the current state of scientific literature, identifying knowledge gaps and directing research precisely. This review will be the theoretical basis for the work, generating new knowledge in this rapidly evolving area of ​​diagnostic medicine.
      
+## Purpose of Review ##
+
+The objective of this systematic review is to carry out a literature search to evaluate the effectiveness of natural language processing (NLP) tools in automatically converting conventional thyroid ultrasound reports into TI-RADS reports. The review focuses on the accuracy, consistency and clinical applicability of these tools, seeking to synthesize and analyze the evidence available in the scientific literature.
 
 ## 2. Methodology ##
 
