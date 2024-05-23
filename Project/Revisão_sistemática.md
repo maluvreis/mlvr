@@ -26,7 +26,11 @@ The objective of this systematic review is to carry out a literature search to e
 
 ## 2. Methodology ##
 
- ### 2.1. Definition of study inclusion and exclusion criteria.
+### 2.1. Research Question Formulation ###
+
+How effective are natural language processing tools in automatically converting conventional thyroid ultrasound reports into TI-RADS reports for the evaluation of thyroid nodules?
+
+ ### 2.2. Definition of study inclusion and exclusion criteria.
  
 **Inclusion criteria:**
 1. Studies that address the development or evaluation of artificial intelligence (AI) tools for thyroid ultrasound reports.
@@ -44,7 +48,7 @@ The objective of this systematic review is to carry out a literature search to e
 5. Outdated or non-peer reviewed articles.
 6. Studies with small samples or conventional methodologies that compromise the quality of the results.
 
-### 2.2 Database search strategy
+### 2.3. Database search strategy
 
  The databases chosen were PubMed, Scielo, Web of Science and Google Scholar, this choice is justified by the wide coverage and consolidated reputation. These platforms are recognized for indexing a wide range of scientific literature, including high-impact journals and peer-reviewed articles, making them reliable sources of information. The search focuses on key terms related to the production of thyroid ultrasound imaging reports, such as thyroid ultrasound, artificial intelligence, TI-RADS, and nodule classification. These terms are adapted as needed for each specific database and its languages, ensuring a comprehensive and accurate search. The objective is to identify relevant studies that address the development and evaluation of AI tools for the production of thyroid ultrasound reports, with a focus on the application of TI-RADS for the classification of nodules. These studies will be fundamental to support both the systematic review and the master's research, providing a solid evidence base for the proposed work.
 As described in Oliveira’s class notes (2019), the following strategies were followed:
@@ -69,9 +73,9 @@ As described in Oliveira’s class notes (2019), the following strategies were f
 
 The search strategy was related to the work through the selection of relevant terms and keywords, such as "thyroid ultrasound", "Thyroid reports", "artificial intelligence", "TI-RADS", "TI-RADS reports", "nodule classification", among others. These terms were logically combined with Boolean operators (AND, OR) to reflect the scope of the search. For example, a search could include the terms "thyroid ultrasound AND artificial intelligence AND TI-RADS."
 
-### 2.3 Development of AI Tools for Thyroid Ultrasound Reports
+### 2.4 Development of AI Tools for Thyroid Ultrasound Reports
 
-  **2.3.1 Description of the artificial intelligence techniques used in the selected studies.**
+  **2.4.1 Description of the artificial intelligence techniques used in the selected studies.**
   
   Studies related to the development and evaluation of artificial intelligence (AI) tools for thyroid ultrasound exam reports, with the application of TI-RADS to classify nodules, often use advanced natural language processing (NLP) techniques. NLP is an area of ​​AI that allows computer systems to understand, interpret and generate human language in a way similar to how humans understand it.
   Machine Learning and Neural Networks: These techniques are widely used in AI studies related to thyroid ultrasound reports. Machine learning algorithms, such as convolutional neural networks (CNNs), are trained with large datasets of ultrasound images to learn patterns that can identify and classify thyroid nodules based on specific characteristics such as shape, texture, and echostructure (KIM et al. al.,2021).
